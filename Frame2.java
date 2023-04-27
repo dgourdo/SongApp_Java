@@ -23,7 +23,7 @@ public class Frame2 extends JFrame {
 
 
     public Frame2() throws FileNotFoundException {
-        songsNumberLabel = new JLabel("Total number of songs listed(THIS IS A git TESTTTTTTTTTTTTTTTTTTTTTTT!): ");
+        songsNumberLabel = new JLabel("Total number of songs listed(THIS IS A git TESTTT!): ");
         songsNumberTF = new JTextField(5);
         songsNumberTF.setEnabled(false);
 
