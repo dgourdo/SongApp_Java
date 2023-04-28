@@ -8,22 +8,22 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Frame2 extends JFrame {
-    private JLabel songsNumberLabel;
-    private JLabel bestTypeOfSongLabel;
-    private JLabel maxSongDurationLabel;
-    private JLabel minSongDurationLabel;
+    private final JLabel songsNumberLabel;
+    private final JLabel bestTypeOfSongLabel;
+    private final JLabel maxSongDurationLabel;
+    private final JLabel minSongDurationLabel;
 
-    private JTextField songsNumberTF;
-    private JTextField bestTypeOfSongTF;
-    private JTextField numOfSongsOfBestTypeTF;
-    private JTextField maxSongDurationTF;
-    private JTextField durMaxTF;
-    private JTextField minSongDurationTF;
-    private JTextField durMinTF;
+    private final JTextField songsNumberTF;
+    private final JTextField bestTypeOfSongTF;
+    private final JTextField numOfSongsOfBestTypeTF;
+    private final JTextField maxSongDurationTF;
+    private final JTextField durMaxTF;
+    private final JTextField minSongDurationTF;
+    private final JTextField durMinTF;
 
 
     public Frame2() throws FileNotFoundException {
-        songsNumberLabel = new JLabel("Total number of songs listed(THIS IS A git TESTTT!): ");
+        songsNumberLabel = new JLabel("Total number of songs listed(THIS IS A git TESTT!): ");
         songsNumberTF = new JTextField(5);
         songsNumberTF.setEnabled(false);
 
