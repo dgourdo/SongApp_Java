@@ -1,0 +1,11 @@
+Code= S0041	Title= All Eyez On Me	Release date= 1996	Duration= 05:07	Artist= 2Pac	Type of song= Hip_Hop
+Code= S0252	Title= Dior	Release date= 2019	Duration= 03:36	Artist= Pop Smoke	Type of song= Rap
+Code= S0725	Title= Not Afraid	Release date= 2010	Duration= 04:19	Artist= Eminem	Type of song= Rap	
+Code= S0174	Title= Hit the Road Jack	Release date= 1962	Duration= 01:58	Artist= Ray Charles	Type of song= Jazz	
+Code= S0674	Title= What a Wonderful World	Release date= 1967	Duration= 02:18	Artist= Louis Armstrong	Type of song= Jazz	
+Code= S0395	Title= Radio Gaga	Release date= 1984	Duration= 05:54	Artist= Queen	Type of song= Rock	
+Code= S0006	Title= The Show Must Go On	Release date= 1991	Duration= 04:23	Artist= Queen	Type of song= Rock	
+Code= S0357	Title= Fear Of The Dark	Release date= 1992	Duration= 07:19	Artist= Iron Maiden	Type of song= Rock	
+Code= S0639	Title= P.I.M.P.	Release date= 2003	Duration= 04:09	Artist= 50 Cent	Type of song= Hip_Hop	
+Code= S0692	Title= Blinding Lights	Release date= 2019	Duration= 04:23	Artist= The Weeknd	Type of song= Pop	
+Code= S0002	Title= Gangsta’s Paradise	Release date= 1995	Duration= 04:16	Artist= Coolio feat. L.V.	Type of song= Rap
